@@ -2,16 +2,6 @@
 Profile README for Zuza.
 How this works: create a public repo named exactly like your GitHub username, put this in README.md.
 -->
-
-<p align="center">
-  <img src="assets/zuza.png" width="160" alt="Zuza portrait" />
-</p>
-
-<h1 align="center">Zuza</h1>
-<p align="center">
-  Onchain dapp builder focused on reputation and coordination.
-</p>
-
 ---
 
 ## State flipped. Purpose set.
