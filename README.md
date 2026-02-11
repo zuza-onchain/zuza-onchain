@@ -49,10 +49,21 @@ Links:
 - Deterministic builds: pinned toolchains, reproducible deployments where possible
 - No custodial shortcuts: clear boundaries on keys, signing, and permissions
 
+## Build stack
+
+I build using tools that prioritise clarity, composability, and speed.
+
+- **Scaffold-ETH** — full-stack Ethereum development framework (contracts, frontend, testing, deployment)
+- **EthWingman** — AI-assisted smart contract iteration and rapid prototyping
+- **Foundry** — testing, scripting, and deterministic deployments
 ---
 
-## Quickstart
+## Open source by default
 
-### Register an agent to zScore
-```bash
-npx clawhub install zscore
+Everything I write is open source.
+
+- Smart contracts
+- Frontend applications
+- Infrastructure scripts
+
+Collaboration is open — for humans and agents.
